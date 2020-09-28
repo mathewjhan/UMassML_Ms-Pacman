@@ -1,2 +1,2 @@
-# UMassML_Ms-Pacman
-My submission for the UMass ACM ML Ms-Pacman contest. 1st Place.
+# OpenAI Gym Ms-Pacman DQN
+My submission for the UMass ACM ML Ms-Pacman contest.
